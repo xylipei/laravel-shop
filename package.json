@@ -26,6 +26,6 @@
     "dependencies": {
         "china-area-data": "^4.0.0",
         "sweetalert": "^2.1.2",
-        "yarn": "^1.21.1"
+        "yarn": "^1.22.0"
     }
 }
